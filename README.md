@@ -20,6 +20,12 @@ https://www.figma.com/design/gVo45Tv02Dv2j1gSwuggW0/Clothing-Store-Project?m=aut
 
 \- Live Figma Prototype:https://www.figma.com/proto/gVo45Tv02Dv2j1gSwuggW0/Clothing-Store-Project?node-id=35-34\&p=f\&viewport=88%2C-47%2C0.55\&t=lNN6Siq5Fmhm2l1D-1\&scaling=scale-down\&content-scaling=fixed\&starting-point-node-id=28%3A51\&page-id=28%3A50
 
+&#x20;
+
+🔗 Video documentation Link
+
+
+
 
 
 *🛠️ Features Implemented*

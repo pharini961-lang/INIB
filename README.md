@@ -30,15 +30,16 @@ https://www.figma.com/design/gVo45Tv02Dv2j1gSwuggW0/Clothing-Store-Project?m=aut
 
 *🛠️ Features Implemented*
 
-\- **Smooth Image Carousel** : Fully functional image carousel allowing users to tap through product images with seamless *Dissolve* transitions.
+- **Smooth Image Carousel** : Fully functional image carousel allowing users to tap through product images with seamless *Dissolve* transitions.
 
-\- **Dynamic Pagination Dots** : Interactive active state tracking indicator dots that change color to reflect the currently viewed image.
+- **Dynamic Pagination Dots** : Interactive active state tracking indicator dots that change color to reflect the currently viewed image.
 
-\- **Success State Overlay** :A clean, custom success notification pop-up triggered seamlessly upon tapping the "ADD TO CART" button.
+- **Horizontal Size Selector**: Integrated a clear, interactive size row (S, M, L, XL, XXL) directly above the primary call-to-action button, featuring a distinct "selected state" design to map user interaction seamlessly.
+
+- **Success State Overlay** :A clean, custom success notification pop-up triggered seamlessly upon tapping the "ADD TO CART" button.
 
 
-
-\-----
+-----
 
 
 
